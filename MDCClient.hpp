@@ -13,6 +13,7 @@
 #include "FeedbackMessage.hpp"
 
 #include <stdint.h>
+
 #include "SettingStruct.hpp"
 
 /**
