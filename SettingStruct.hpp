@@ -14,10 +14,6 @@ typedef struct SettingStructType {
     float ki;
     float kd;
     float forward_gain;
-    //  current pid
-    float cp;
-    float ci;
-    float cd;
 } setting_struct_t;
 
 #endif
